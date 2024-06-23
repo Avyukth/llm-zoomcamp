@@ -18,6 +18,8 @@ knowledge base.
 - Join the [course Telegram channel with announcements](https://t.me/llm_zoomcamp)
 - The videos are published on [DataTalks.Club's YouTube channel](https://www.youtube.com/c/DataTalksClub) in [the course playlist](https://www.youtube.com/playlist?list=PL3MmuxUbc_hKiIVNf7DeEt_tGjypOYtKV)
 - [Frequently asked technical questions](https://docs.google.com/document/d/1m2KexowAXTmexfC5rVTCSnaShvdUQ8Ag2IEiwBDHxN0/edit?usp=sharing)
+- [Course Calendar](https://calendar.google.com/calendar/?cid=NjkxOThkOGFhZmUyZmQwMzZjNDFkNmE2ZDIyNjE5YjdiMmQyZDVjZTYzOGMxMzQyZmNkYjE5Y2VkNDYxOTUxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [Materials specific to 2024 cohort](cohorts/2024/)
 
 
 We will cover topics like LLMs and RAG.
@@ -67,9 +69,8 @@ Implement a search engine
 * Vector search
 * Adding vectors to RAG
 
-### Workshop: dlt
+### [Workshop: dlt](cohorts/2024/workshops/dlt.md)
 
-* TBA
 
 ### [LLM orchestration and ingestion pipelines](04-orchestration/)
 
@@ -88,10 +89,13 @@ Implement a search engine
 
 * Best practices
 
+### LLM Zoomcamp 2024 Competition
 
-### Competition
+In the competition, you need to use LLMs to solve high school mathematics problems. 
+Your task is to develop models that can accurately solve these problems and submit your predictions.
 
-TBA
+For more details, visit the [competition page](https://www.kaggle.com/competitions/llm-zoomcamp-2024-competition/overview).
+
 
 ### [Hands-on project](project.md)
 
